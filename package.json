@@ -1,0 +1,10 @@
+{
+  "name": "teatesnet",
+  "version": "1.0.0",
+  "description": "sy mw jp hard",
+  "main": "index.js",
+  "type": "module",
+  "repository": "https://github.com/aangsetyat/teatesnet.git",
+  "author": "aangsetyat",
+  "license": "ISC"
+}
